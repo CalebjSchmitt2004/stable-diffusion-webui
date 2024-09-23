@@ -15,6 +15,7 @@ kornia
 lark
 numpy
 omegaconf
+typing_extensions
 open-clip-torch
 
 piexif
